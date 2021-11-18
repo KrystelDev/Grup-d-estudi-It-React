@@ -10,11 +10,18 @@ Col·laboradors:
          alt="Firamdo Krystel R."
          /> https://github.com/KrystelDev 
    </li>
-  <ul>
+ 
    <li> https://github.com/Alfonso0510 </li>
-  </ul>
-  <ul>
+ 
    <li> https://github.com/missvader </li>
+ 
+   <li>
+    <img
+         src="https://avatars.githubusercontent.com/u/5355537?v=4" 
+         width="30rem" 
+         alt="Firamdo Pau G."
+         /> https://github.com/KrystelDev 
+   </li>
+ 
   </ul>
-  
 
