@@ -50,7 +50,7 @@ Col·laboradors:
          /> https://github.com/Xelacnnister
    </li>
    
-   </li>
+   <li>
      <img
          src="https://avatars.githubusercontent.com/u/76686003?v=4" 
          width="30rem" 
