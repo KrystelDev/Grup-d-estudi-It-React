@@ -20,7 +20,7 @@ Col·laboradors:
          src="https://avatars.githubusercontent.com/u/5355537?v=4" 
          width="30rem" 
          alt="Firamdo Pau G."
-         /> https://github.com/KrystelDev 
+         /> https://github.com/pyrenaicus
    </li>
  
   </ul>
