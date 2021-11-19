@@ -65,6 +65,13 @@ Col·laboradors:
          alt="Firamdo XavierPar."
          /> https://github.com/XavierPar
    </li>
+   <li>
+     <img
+         src="https://avatars.githubusercontent.com/u/68864369?v=4" 
+         width="30rem" 
+         alt="Firamdo Nuria Viana"
+         /> https://github.com/nvianaperez
+   </li>
  
   </ul>
 
