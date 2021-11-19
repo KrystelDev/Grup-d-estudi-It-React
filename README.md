@@ -72,6 +72,13 @@ Col·laboradors:
          alt="Firamdo Nuria Viana"
          /> https://github.com/nvianaperez
    </li>
+    <li>
+     <img
+         src="https://github.com/feedmelab" 
+         width="30rem" 
+         alt="Firamdo feedmelab"
+         /> https://github.com/feedmelab
+   </li>
  
   </ul>
 
