@@ -58,7 +58,7 @@ Col·laboradors:
          /> https://github.com/MartaEV85
    </li>
  
-    <li>
+  <li>
     <img
          src="https://avatars.githubusercontent.com/u/92579264?v=4" 
          width="30rem" 
