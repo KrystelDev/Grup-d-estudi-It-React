@@ -74,7 +74,7 @@ Col·laboradors:
    </li>
     <li>
      <img
-         src="https://github.com/feedmelab" 
+         src="https://avatars.githubusercontent.com/u/4949781?v=4" 
          width="30rem" 
          alt="Firamdo feedmelab"
          /> https://github.com/feedmelab
