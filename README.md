@@ -67,7 +67,7 @@ Col·laboradors:
    </li>
    <li>
      <img
-         src="https://avatars.githubusercontent.com/u/68864369?v=4" 
+         src="https://avatars.githubusercontent.com/u/72308258?v=4" 
          width="30rem" 
          alt="Firamdo Nuria Viana"
          /> https://github.com/nvianaperez
