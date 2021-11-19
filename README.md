@@ -58,5 +58,13 @@ Col·laboradors:
          /> https://github.com/MartaEV85
    </li>
  
+    <li>
+    <img
+         src="https://avatars.githubusercontent.com/u/92579264?v=4" 
+         width="30rem" 
+         alt="Firamdo XavierPar."
+         /> https://github.com/XavierPar
+   </li>
+ 
   </ul>
 
