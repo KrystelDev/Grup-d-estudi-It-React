@@ -79,6 +79,14 @@ Col·laboradors:
          alt="Firamdo feedmelab"
          /> https://github.com/feedmelab
    </li>
+
+     <li>
+     <img
+         src="https://avatars.githubusercontent.com/u/18135199?v=4" 
+         width="30rem" 
+         alt="Firamdo Will I."
+         /> https://github.com/wiglesias
+   </li>
  
   </ul>
 
