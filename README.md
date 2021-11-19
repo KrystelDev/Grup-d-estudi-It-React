@@ -80,7 +80,7 @@ Col·laboradors:
          /> https://github.com/feedmelab
    </li>
 
-     <li>
+   <li>
      <img
          src="https://avatars.githubusercontent.com/u/18135199?v=4" 
          width="30rem" 
