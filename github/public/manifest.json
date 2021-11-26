@@ -1,0 +1,8 @@
+{
+  "short_name": "GitHub",
+  "name": "Apuntes compartidos sobre GitHub.",
+  "start_url": "../Welcome",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

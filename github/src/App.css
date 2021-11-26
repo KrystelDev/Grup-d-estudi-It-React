@@ -1,0 +1,37 @@
+.App {
+  background: #ffffff;
+  text-align: center;
+  height: 100vh;
+  position: relative;
+}
+header {
+  background: linear-gradient(to top, #ffffff 10%, #f91dc5 90%);
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+}
+
+/* Provan si lo lee: // Resultado, si lo lee
+.H1prova {
+  color: red;
+} */
+
+header img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8rem;
+  margin: 1rem;
+}
+
+main {
+  color: black;
+}
+footer {
+  background: linear-gradient(to top, #f91dc5 10%, #ffffff 90%);
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}

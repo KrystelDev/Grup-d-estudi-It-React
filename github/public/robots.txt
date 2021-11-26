@@ -1,0 +1,10 @@
+# https://bigseoagency.com/para-que-sirve-el-archivo-robots-txt/
+User-agent: *
+Disallow:
+
+Será interesante crear un archivo robots.txt si quieres:
+    - Ocultar partes de tu web a los motores de búsqueda.
+    - Restringir acceso a contenido duplicado.
+    - Restringir acceso a archivos de código.
+    - Indicar el Sitemap de nuestra web a los bots.
+    - Restringir ciertos directorios o subdirectorios de tu web.    
