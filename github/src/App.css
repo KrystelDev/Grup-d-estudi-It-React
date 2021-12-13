@@ -2,21 +2,18 @@
   background: #ffffff;
   text-align: center;
   height: 100vh;
-  position: relative;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 10% 70% 10%;
 }
 header {
   background: linear-gradient(to top, #ffffff 10%, #f91dc5 90%);
+  color: #ffffff;
+  text-shadow: 2px 2px black;
   position: absolute;
   top: 0;
   width: 100vw;
-  color: #ffffff;
-  text-shadow: 2px 2px black;
 }
-
-/* Provan si lo lee: // Resultado, si lo lee
-.H1prova {
-  color: red;
-} */
 
 header img {
   position: absolute;
@@ -27,6 +24,7 @@ header img {
 }
 
 main {
+  margin-top: 10%;
   color: black;
 }
 footer {
