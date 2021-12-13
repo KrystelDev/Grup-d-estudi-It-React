@@ -1,9 +1,14 @@
 import React, { Fragment } from "react";
-import home from "../home/home";
+import { Link } from "react-router-dom";
 
 const PullRequest = () => {
   return (
     <Fragment>
+      <ul>
+        <li>
+          <Link to="/">Inicio</Link>
+        </li>
+      </ul>
       <ol>
         Pull request:
         <ol>

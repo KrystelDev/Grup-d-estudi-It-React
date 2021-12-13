@@ -10,6 +10,9 @@ export default () => (
       <li>
         <Link to="/pullRequest">Pull Request</Link>
       </li>
+      <li>
+        <Link to="/startProject">Empezar un proyecto</Link>
+      </li>
     </ul>
   </Fragment>
 );
