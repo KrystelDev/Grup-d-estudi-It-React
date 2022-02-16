@@ -1,8 +1,8 @@
 import React, { Fragment } from "react";
 import { Link } from "react-router-dom";
 import "../../styled/StartProject.css";
-import repositorio from "../../components/img/repositorio.png";
-import crearRepositorio from "../../components/img/crearRepositorio.png";
+import repositorio from "../../img/repositorio.png";
+import crearRepositorio from "../../img/crearRepositorio.png";
 
 const CreateRepository = () => {
   return (
