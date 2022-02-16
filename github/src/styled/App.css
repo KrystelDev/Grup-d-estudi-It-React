@@ -8,7 +8,7 @@ header {
 }
 
 header img {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   width: 8rem;
@@ -16,12 +16,12 @@ header img {
 }
 
 main {
-  margin-top: 10%;
+  margin: 10% 0;
   color: black;
 }
 footer {
   background: linear-gradient(to top, #f91dc5 10%, #ffffff 90%);
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100vw;
 }
