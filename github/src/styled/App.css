@@ -16,8 +16,9 @@ header img {
 }
 
 main {
-  margin: 10% 0;
+  margin: 10% 5%;
   color: black;
+  text-align: justify;
 }
 footer {
   background: linear-gradient(to top, #f91dc5 10%, #ffffff 90%);
